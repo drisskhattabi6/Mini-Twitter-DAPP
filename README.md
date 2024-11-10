@@ -1,4 +1,4 @@
-# Mini Twitter Web 3.0 DApp
+# Mini Twitter DApp
 
 ## Project Overview
 
